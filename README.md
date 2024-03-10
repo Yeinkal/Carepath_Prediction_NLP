@@ -8,4 +8,4 @@ pandas
 Py2neo
 matplotlib
 networkx
-
+sklearn
