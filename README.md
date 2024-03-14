@@ -5,7 +5,7 @@ Project dedicated to predict a patient activity using NLP approach.
 # List of modules
 ipykernel
 pandas
-Py2neo
+Neomodel
 matplotlib
 networkx
 sklearn
