@@ -2,10 +2,5 @@
 Project dedicated to predict a patient activity using NLP approach.
 
 
-# List of modules
-ipykernel
-pandas
-Neomodel
-matplotlib
-networkx
-sklearn
+# List of required modules
+Please use the requirements.txt file to reproduce the environement
