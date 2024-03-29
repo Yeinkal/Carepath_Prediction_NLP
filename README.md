@@ -49,7 +49,7 @@ In this project, we want to try a DeepLearning Approach in order to predict the 
 	- DL_Project_DAtaset_Cluster... : Bigger datasets to be tested.
 
 - Structure of the data: 
-![Data_Structure](Data_structure.jpg) 
+![Data_Structure](Data_structure.png) 
 it's a log file of activity, giving an Id of the patient, a datetime of the activity (Datedebut, Date_fin, and J_Parcours which define the starting date of the carepath),
  Where it has been relealizes (UF) plus some details of the activity.
  Which kind of Care has been given, according to a code of activity.
