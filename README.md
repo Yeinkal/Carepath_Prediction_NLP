@@ -22,7 +22,7 @@ In this project, we want to try a DeepLearning Approach in order to predict the 
 
 1. Clone this repository to your local machine using:
    ```bash
-    git clone https://github.com/VinceWeber/Carepath_Prediction_NLP/
+    git clone https://github.com/Yeinkal/Carepath_Prediction_NLP/
 
 2. Navigate to the project directory:
    ```bash
