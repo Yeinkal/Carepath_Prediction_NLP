@@ -64,7 +64,7 @@ it's a log file of activity, giving an Id of the patient, a datetime of the acti
 - Then we apply a logic of text generation on a RNN neural network and try to predict the next activity of a patient.
 	- The input vector is a tensor composed of the sequence node + Embeddings (minus the last Sequence node).
 	- The output vector is a similar tensor but with the last node and without the first one.
-	- I explicitly moved the softmax layer in order to be able to compute the closest predicted Node 
+	- I explicitly moved the softmax layer in order to be able to compute the closest predicted Node.
 
 ## [Results](#results)
 
